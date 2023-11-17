@@ -26,7 +26,7 @@ Clone the repository:
 
 bash
 
-git clone https://github.com/yourusername/phone-catalog-app.git
+https://github.com/Shikhasharma06/PhoneHuntingAPI/
 Navigate to the project directory:
 
 bash
